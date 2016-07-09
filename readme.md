@@ -19,6 +19,9 @@ Simple and good web page which makes two requests at load and then does nothing:
 
 *simple network icon with request count*
 
+### Chrome Store
+
+https://chrome.google.com/webstore/detail/netmonitor/jekcpjegemgakiacfgiplacomhabclce
 
 ### Author
 
